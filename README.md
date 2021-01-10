@@ -1,7 +1,6 @@
-# Summarize-Knowledge
 
-   数学、统计学、机器学习知识总结。 
-   文档仅供学习使用，转载请标明出处。
+数学、统计学、机器学习知识总结。 
+文档仅供学习使用，转载请标明出处。
 
 [三大相关系数与MIC](https://github.com/AI-Friend/Machine-Learning/blob/master/%E4%B8%89%E5%A4%A7%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0%E4%B8%8EMIC.pdf)  
 [统计学三大分布与检验](https://github.com/AI-Friend/Machine-Learning/blob/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B8%89%E5%A4%A7%E5%88%86%E5%B8%83%E4%B8%8E%E6%A3%80%E9%AA%8C.pdf)
